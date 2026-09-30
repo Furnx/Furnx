@@ -1,7 +1,7 @@
 ## Hi there 👋, Nathi here
 
 # 💫 About Me:
-Data Engineer | Software Engineer<br><br>I am a software engineer with a strong passion for Data Engineering.<br>I enjoy building efficient data pipelines, working with backend architectures, and solving complex problems through clean, maintainable code.<br><br>I thrive in collaborative environments and love leading projects that challenge me to integrate disparate systems. <br>When I’m not coding, you can find me diving into new backend frameworks or optimizing my CLI workflows.
+Data Engineer | Software Engineer<br><br>I am a software engineer with a strong passion for Data Engineering.<br>I enjoy building efficient data pipelines, working with backend architectures, and solving complex problems through clean, maintainable code.<br><br>I thrive in collaborative environments and love leading projects that challenge me to integrate disparate systems. <br>When I’m not coding, you can find me diving into new backend frameworks or optimizing my CLI workflows. 
 
 
 ## 🌐 Socials:
